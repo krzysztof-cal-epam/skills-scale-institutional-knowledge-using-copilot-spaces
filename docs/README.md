@@ -40,3 +40,5 @@ Navigate to the relevant process document based on your project stage or role:
 - **Ready to release?** Use the [Release & Deployment Guide](./octoacme-release-and-deployment.md) checklist.
 
 All process docs are versioned and improved collaboratively. For repository-level purpose and usage, see the root README.
+
+<!-- skills: step2 pr -->
